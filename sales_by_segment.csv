@@ -1,0 +1,61 @@
+﻿DateTime,客戶分類_Customer_Segment,售電量(百萬度)_Sales(GWh),客戶數量(千)_Customer_Number(000),平均用電量_(度)_Mean_Consumption_(KWh)
+2022-04-01,住宅 Residential,2092,2407,869
+2022-04-01,製造業 Manufacturing,388,17,22824
+2022-04-01,商業 Commercial,3130,212,14764
+2022-04-01,基建及公共服務 Infrastructure & Public Services,2343,115,20374
+2022-04-01,本地總計 Local Sales,7953,2752,2890
+2022-03-01,住宅 Residential,3689,2402,1536
+2022-03-01,製造業 Manufacturing,461,17,27118
+2022-03-01,商業 Commercial,4022,212,18972
+2022-03-01,基建及公共服務 Infrastructure & Public Services,2957,115,25713
+2022-03-01,本地總計 Local Sales,11129,2737,4066
+2022-02-01,住宅 Residential,2467,2384,1035
+2022-02-01,製造業 Manufacturing,436,17,25647
+2022-02-01,商業 Commercial,3445,211,16327
+2022-02-01,基建及公共服務 Infrastructure & Public Services,2555,115,22217
+2022-02-01,本地總計 Local Sales,8903,2727,3265
+2022-01-01,住宅 Residential,1866,2377,785
+2022-01-01,製造業 Manufacturing,330,17,19412
+2022-01-01,商業 Commercial,2636,211,12493
+2022-01-01,基建及公共服務 Infrastructure & Public Services,2008,114,17614
+2022-01-01,本地總計 Local Sales,6840,2719,2516
+2021-04-01,住宅 Residential,2127,2369,898
+2021-04-01,製造業 Manufacturing,379,17,22294
+2021-04-01,商業 Commercial,3091,211,14649
+2021-04-01,基建及公共服務 Infrastructure & Public Services,2252,114,19754
+2021-04-01,本地總計 Local Sales,7849,2711,2895
+2021-03-01,住宅 Residential,3836,2358,1627
+2021-03-01,製造業 Manufacturing,475,18,26389
+2021-03-01,商業 Commercial,3950,210,18810
+2021-03-01,基建及公共服務 Infrastructure & Public Services,2825,114,24781
+2021-03-01,本地總計 Local Sales,11086,2699,4107
+2021-02-01,住宅 Residential,2660,2347,1133
+2021-02-01,製造業 Manufacturing,468,18,26000
+2021-02-01,商業 Commercial,3738,209,17885
+2021-02-01,基建及公共服務 Infrastructure & Public Services,2734,113,24195
+2021-02-01,本地總計 Local Sales,9599,2687,3572
+2021-01-01,住宅 Residential,1901,2343,811
+2021-01-01,製造業 Manufacturing,344,18,19111
+2021-01-01,商業 Commercial,2645,208,12716
+2021-01-01,基建及公共服務 Infrastructure & Public Services,1932,113,17097
+2021-01-01,本地總計 Local Sales,6821,2682,2543
+2020-04-01,住宅 Residential,2099,2334,899
+2020-04-01,製造業 Manufacturing,377,18,21479
+2020-04-01,商業 Commercial,2964,208,14241
+2020-04-01,基建及公共服務 Infrastructure & Public Services,2096,112,18678
+2020-04-01,本地總計 Local Sales,7536,2636,2858
+2020-03-01,住宅 Residential,3839,2322,1653
+2020-03-01,製造業 Manufacturing,463,18,25722
+2020-03-01,商業 Commercial,3718,207,17961
+2020-03-01,基建及公共服務 Infrastructure & Public Services,2678,112,23911
+2020-03-01,本地總計 Local Sales,10698,2659,4023
+2020-02-01,住宅 Residential,2736,2315,1182
+2020-02-01,製造業 Manufacturing,434,18,24111
+2020-02-01,商業 Commercial,3399,207,16425
+2020-02-01,基建及公共服務 Infrastructure & Public Services,2402,111,21640
+2020-02-01,本地總計 Local Sales,8971,2650,3385
+2020-01-01,住宅 Residential,1625,2309,704
+2020-01-01,製造業 Manufacturing,343,18,19056
+2020-01-01,商業 Commercial,2796,207,13507
+2020-01-01,基建及公共服務 Infrastructure & Public Services,1994,111,17964
+2020-01-01,本地總計 Local Sales,6758,2645,2555
